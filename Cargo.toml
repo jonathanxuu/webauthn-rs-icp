@@ -1,5 +1,5 @@
 [package]
-name = "webauthn-rs"
+name = "webauthn-rs-icp"
 version = "0.4.8"
 authors = ["jonathan <jonathanxx997@gmail.com>"]
 edition = "2021"
