@@ -1,6 +1,6 @@
 [package]
 name = "webauthn-rs-icp"
-version = "0.4.8"
+version = "0.4.9"
 authors = ["jonathan <jonathanxx997@gmail.com>"]
 edition = "2021"
 description = "Webauthn Framework for Rust Web Servers"
@@ -20,7 +20,7 @@ danger-user-presence-only-security-keys = []
 
 [dependencies]
 base64urlsafedata-icp = { version = "0.1.2"}
-webauthn-rs-core-icp = { version = "0.4.8"}
+webauthn-rs-core-icp = { version = "0.4.9"}
 url = { version = "2", features = ["serde"] }
 # tracing = "0.1"
 serde = { version = "1", features = ["derive"] }
